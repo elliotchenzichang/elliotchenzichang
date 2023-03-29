@@ -16,9 +16,9 @@ Hey there! I'm Elliot, and I'm a database enthusiast who loves to read and explo
 
 Here are a few technologies I've been working with recently:
 
-- Databases: MySQL, PostgreSQL, Oracle, MongoDB, Redis
-- Programming languages: Go, C++, Rust, SQL
-- Technologies: Docker, Git, AWS
+- **Databases**: MySQL, Redis, Nutsdb, Rocksdb, Leveldb
+- **Programming languages**: Go, C++, Rust
+- **Technologies**: Docker, Git, AWS
 
 ## Research Papers
 
