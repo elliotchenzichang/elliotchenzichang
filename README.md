@@ -1,11 +1,8 @@
 # Hi there, I'm Elliot Chen 👋
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=elliotchenzichang&show_icons=true&count_private=true&theme=tokyonight" alt="Elliot's github stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elliotchenzichang&layout=compact&theme=tokyonight" alt="Top Langs"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=elliotchenzichang&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=dracula" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elliotchenzichang&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=dracula"/>
 </p>
 
 ## About Me
