@@ -42,4 +42,4 @@ Here are some recent courses I've taken:
 
 ## Contact Me
 
-If you want to get in touch, feel free to send me an email at `eliotchenzichang@163.com`.
+If you want to get in touch, feel free to send me an email at `eliotchenzichang@gmail.com`.
